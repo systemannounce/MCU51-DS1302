@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "DELAY.H": "cpp",
+        "DELAY.C": "cpp",
+        "time0init.h": "c"
+    }
+}
